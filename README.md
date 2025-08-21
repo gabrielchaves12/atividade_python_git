@@ -15,5 +15,5 @@ python atividade.py
 # 4. Execute no terminal:
 ```bash
 git add README.md
-git commit -m "Atualiza README com informações da atividade"
+git commit -m "Atualiza README"
 git push origin main
